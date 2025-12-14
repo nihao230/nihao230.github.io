@@ -10,7 +10,7 @@
 - type: email
   icon: "fas fa-envelope"
   url: "mailto:haohaolu2004@gmail.com"
-  noblank: true # open link in current tab
+  noblank: true # open link in current
 
 - type: rss
   icon: "fas fa-rss"
