@@ -2,12 +2,14 @@
 
 - type: github
   icon: "fab fa-github"
+  url: "https://github.com/nihao230"
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
 - type: email
   icon: "fas fa-envelope"
+  url: "mailto:haohaolu2004@gmail.com"
   noblank: true # open link in current tab
 
 - type: rss
